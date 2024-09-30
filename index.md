@@ -1,7 +1,7 @@
 ## Welcome to Svy.J's Homepage
 
-*"I can do all things!"*  
-<p align="right";margin:0px;>— Wardell Stephen Curry II</p>
+*"I can do all things!"* 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; — Wardell Stephen Curry II
 
 #### I am currently a Ph.D. student major in Control Science and Engineering at Hunan University, working under the supervision of Prof. Dr. [Min Liu](http://eeit.hnu.edu.cn/info/1291/5218.htm). My research interests include industrial imaging and defect detection, weakly supervised learning and medical image anylasis. Before entering Hunan University, I received my M.Eng. (supervised by Prof. Dr. [Kai Hu](https://jwxy.xtu.edu.cn/info/1147/2508.htm)) and B.S. degree from Xiangtan University in 2023 and 2020. (Contact me: svyj@hnu.edu.cn)
 
@@ -40,6 +40,6 @@ Frontiers in my research area are updated at [https://svyj.github.io/daily-paper
 
 ## Publications
 
-- Kai Hu, **Shuai Jiang**, Yuan Zhang, Xuanya Li, and Xieping Gao, “Joint-seg: Treat foveal avascular zone and retinal vessel segmentation in octa images as a joint task,” IEEE Transactions on Instrumentation and Measurement, vol. 71, pp. 1–13, 2022. [[Paper]](https://ieeexplore.ieee.org/document/9837090) [[Project]](https://svyj.github.io/Joint-Seg/)
+- Kai Hu, **Shuai Jiang**, Yuan Zhang, Xuanya Li, and Xieping Gao, “Joint-seg: Treat foveal avascular zone and retinal vessel segmentation in octa images as a joint task,” _IEEE Transactions on Instrumentation and Measurement_, vol. 71, pp. 1–13, 2022. [[Paper]](https://ieeexplore.ieee.org/document/9837090) [[Project]](https://svyj.github.io/Joint-Seg/)
 
-- 胡凯, **蒋帅**, 刘冬, 高协平. 基于端到端深度神经网络和图搜索的OCT图像视网膜层边界分割方法. 软件学报, 2023. [[Paper]](https://www.jos.org.cn/jos/article/abstract/6895)
+- 胡凯, **蒋帅**, 刘冬, 高协平. 基于端到端深度神经网络和图搜索的OCT图像视网膜层边界分割方法. _软件学报_, 2024, 35(6):3036-3051. [[Paper]](https://www.jos.org.cn/jos/article/abstract/6895)
