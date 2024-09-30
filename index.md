@@ -2,7 +2,7 @@
 
 *"I can do all things!"* 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; — Wardell Stephen Curry II
+<div style="text-align: right"> — Wardell Stephen Curry II </div>
 
 #### I am currently a Ph.D. student major in Control Science and Engineering at Hunan University, working under the supervision of Prof. Dr. [Min Liu](http://eeit.hnu.edu.cn/info/1291/5218.htm). My research interests include industrial imaging and defect detection, weakly supervised learning and medical image anylasis. Before entering Hunan University, I received my M.Eng. (supervised by Prof. Dr. [Kai Hu](https://jwxy.xtu.edu.cn/info/1147/2508.htm)) and B.S. degree from Xiangtan University in 2023 and 2020. (Contact me: svyj@hnu.edu.cn)
 
