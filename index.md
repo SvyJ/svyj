@@ -10,6 +10,7 @@ More information (e.g., study blogs, experience sharing) can be found at [https:
 
 Frontiers in my research area are updated at [https://svyj.github.io/daily-papers](https://svyj.github.io/daily-papers) for the in-time following.
 
+<i class="fa-brands fa-google-scholar">https://scholar.google.com/citations?user=9yWuLtsAAAAJ</i>
 
 ## Recent Updates
 - [Aug. 2024] One paper on "multimodal OCTA image analysis" was submitted to _IEEE Transactions on Instrumentation and Measurement_.
