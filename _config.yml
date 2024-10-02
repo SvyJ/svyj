@@ -25,3 +25,6 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
+    - label: "Google Scholar"
+      icon: "fa-brands fa-google-scholar"
+      url: https://scholar.google.com/citations?user=9yWuLtsAAAAJ
