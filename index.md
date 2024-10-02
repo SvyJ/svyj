@@ -6,12 +6,11 @@
 
 #### I am currently a Ph.D. student major in Control Science and Engineering at Hunan University, working under the supervision of Prof. Dr. [Min Liu](http://eeit.hnu.edu.cn/info/1291/5218.htm). My research interests include industrial imaging and defect detection, weakly supervised learning and medical image anylasis. Before entering Hunan University, I received my M.Eng. (supervised by Prof. Dr. [Kai Hu](https://jwxy.xtu.edu.cn/info/1147/2508.htm)) and B.S. degree from Xiangtan University in 2023 and 2020. (Contact me: svyj@hnu.edu.cn)
 
-More information (e.g., study blogs, experience sharing) can be found at [https://svyj.github.io/](https://svyj.github.io/).
+More information (e.g., study blogs, experience sharing) can be found at [My homepage - https://svyj.github.io/](https://svyj.github.io/).
 
 Frontiers in my research area are updated at [https://svyj.github.io/daily-papers](https://svyj.github.io/daily-papers) for the in-time following.
 
-<a href="https://fontawesome.com"><i class="fa-brands fa-google-scholar"></i> Home </a>
-
+[[Google Scholar]](https://scholar.google.com/citations?user=9yWuLtsAAAAJ)
 
 
 ## Recent Updates
