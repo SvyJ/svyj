@@ -10,7 +10,7 @@ More information (e.g., study blogs, experience sharing) can be found at [Svy.J'
 
 Frontiers in my research area are updated at [https://svyj.github.io/daily-papers](https://svyj.github.io/daily-papers) for the in-time following.
 
-[[Google Scholar]](https://scholar.google.com/citations?user=9yWuLtsAAAAJ)
+Links: [[Google Scholar]](https://scholar.google.com/citations?user=9yWuLtsAAAAJ)  [[Github]](https://github.com/SvyJ)  
 
 
 ## Recent Updates
