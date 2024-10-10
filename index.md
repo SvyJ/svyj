@@ -43,7 +43,7 @@ Links: [[Google Scholar]](https://scholar.google.com/citations?user=9yWuLtsAAAAJ
 
 ## Publications
 
-- 胡凯, **蒋帅**, 刘冬, 高协平. 基于端到端深度神经网络和图搜索的OCT图像视网膜层边界分割方法. _软件学报_, 2024, 35(6):3036-3051. [[Paper]](https://www.jos.org.cn/jos/article/abstract/6895)
+- 胡凯, **蒋帅**, 刘冬, 高协平. 基于端到端深度神经网络和图搜索的OCT图像视网膜层边界分割方法. _软件学报_, 2023. (Kai Hu, Shuai Jiang, Dong Liu, Xieping Gao. "Segmentation of Retinal Layer Boundary in OCT Images Based on End-to-end Deep Neural Network and Graph Search", Journal of Software, 2023.) [[Paper]](https://www.jos.org.cn/jos/article/abstract/6895)
 
-- Kai Hu, **Shuai Jiang**, Yuan Zhang, Xuanya Li, and Xieping Gao, “Joint-seg: Treat foveal avascular zone and retinal vessel segmentation in octa images as a joint task,” _IEEE Transactions on Instrumentation and Measurement_, vol. 71, pp. 1–13, 2022. [[Paper]](https://ieeexplore.ieee.org/document/9837090) [[Project]](https://svyj.github.io/Joint-Seg/)
+- Kai Hu, **Shuai Jiang**, Yuan Zhang, Xuanya Li, and Xieping Gao, “Joint-seg: Treat foveal avascular zone and retinal vessel segmentation in octa images as a joint task,” _IEEE Transactions on Instrumentation and Measurement (T-IM)_, 2022. [[Paper]](https://ieeexplore.ieee.org/document/9837090) [[Project]](https://svyj.github.io/Joint-Seg/)
 
