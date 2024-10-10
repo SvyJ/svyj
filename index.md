@@ -14,9 +14,9 @@ Links: [[Google Scholar]](https://scholar.google.com/citations?user=9yWuLtsAAAAJ
 
 
 ## Recent Updates
-- [Aug. 2024] One paper on "multimodal OCTA image analysis" was submitted to _IEEE Transactions on Instrumentation and Measurement_.
+- [Aug. 2024] One paper on "multimodal OCTA image analysis" was submitted to _IEEE Transactions on Instrumentation and Measurement (T-IM)_.
 
-- [Jun. 2024] One paper on "weakly supervised surface defect localization" was submitted to _IEEE Transactions on Instrumentation and Measurement_. [[Project]](https://svyj.github.io/CSS/)
+- [Jun. 2024] One paper on "weakly supervised surface defect localization" was submitted to _IEEE Transactions on Instrumentation and Measurement (T-IM)_. [[Project]](https://svyj.github.io/CSS/)
 
 - [Apr. 2023] Svy.J was awarded the 28th "Graduate President Scholarship" at Xiangtan University.
 
@@ -30,7 +30,7 @@ Links: [[Google Scholar]](https://scholar.google.com/citations?user=9yWuLtsAAAAJ
   
 - [Sept. 2022] Svy.J was awarded the "Graduate National Scholarship".
   
-- [Jul. 2022] One paper on "biomarkers segmentation in OCTA" was accepted by _IEEE Transactions on Instrumentation and Measurement_. [[Paper]](https://ieeexplore.ieee.org/document/9837090) [[Project]](https://svyj.github.io/Joint-Seg/)
+- [Jul. 2022] One paper on "biomarkers segmentation in OCTA" was accepted by _IEEE Transactions on Instrumentation and Measurement (T-IM)_. [[Paper]](https://ieeexplore.ieee.org/document/9837090) [[Project]](https://svyj.github.io/Joint-Seg/)
   
 - [Oct. 2021] Svy.J was awarded the "Xinhualian Group Education Scholarship".
   
@@ -45,5 +45,5 @@ Links: [[Google Scholar]](https://scholar.google.com/citations?user=9yWuLtsAAAAJ
 
 - 胡凯, **蒋帅**, 刘冬, 高协平. "基于端到端深度神经网络和图搜索的OCT图像视网膜层边界分割方法". _软件学报_, 2023. (Kai Hu, **Shuai Jiang**, Dong Liu, and Xieping Gao. "Segmentation of Retinal Layer Boundary in OCT Images Based on End-to-end Deep Neural Network and Graph Search", _Journal of Software_, 2023.) [[Paper]](https://www.jos.org.cn/jos/article/abstract/6895)
 
-- Kai Hu, **Shuai Jiang**, Yuan Zhang, Xuanya Li, and Xieping Gao, "Joint-seg: Treat foveal avascular zone and retinal vessel segmentation in octa images as a joint task", _IEEE Transactions on Instrumentation and Measurement (T-IM)_, 2022. [[Paper]](https://ieeexplore.ieee.org/document/9837090) [[Project]](https://svyj.github.io/Joint-Seg/)
+- Kai Hu, **Shuai Jiang**, Yuan Zhang, Xuanya Li, and Xieping Gao, "Joint-seg: Treat Foveal Avascular Zone and Retinal Vessel Segmentation in OCTA Images as a Joint Task", _IEEE Transactions on Instrumentation and Measurement (T-IM)_, 2022. [[Paper]](https://ieeexplore.ieee.org/document/9837090) [[Project]](https://svyj.github.io/Joint-Seg/)
 
