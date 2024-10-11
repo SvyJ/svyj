@@ -49,4 +49,4 @@ Links: [[Google Scholar]](https://scholar.google.com/citations?user=9yWuLtsAAAAJ
 
 
 ## Service
-- Reviewer for [_Journal of Imaging Informatics in Medicine (Journal of Digital Imaging)_](https://link.springer.com/journal/10278)
+- Reviewer of [_Journal of Imaging Informatics in Medicine (Journal of Digital Imaging)_](https://link.springer.com/journal/10278)
