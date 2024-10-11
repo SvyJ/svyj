@@ -47,3 +47,6 @@ Links: [[Google Scholar]](https://scholar.google.com/citations?user=9yWuLtsAAAAJ
 
 - Kai Hu, **Shuai Jiang**, Yuan Zhang, Xuanya Li, and Xieping Gao, "Joint-seg: Treat Foveal Avascular Zone and Retinal Vessel Segmentation in OCTA Images as a Joint Task", _IEEE Transactions on Instrumentation and Measurement (T-IM)_, 2022. [[Paper]](https://ieeexplore.ieee.org/document/9837090) [[Project]](https://svyj.github.io/Joint-Seg/)
 
+
+## Service
+- Reviewer for [_Journal of Imaging Informatics in Medicine (Journal of Digital Imaging)_](https://link.springer.com/journal/10278)
