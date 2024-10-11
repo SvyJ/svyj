@@ -1,4 +1,4 @@
-## Welcome to Svy.J's Homepage
+## Welcome to Svy.J's Academic Page
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *"I can do all things!"* 
 
