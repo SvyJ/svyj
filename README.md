@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SvyJ&layout=compact&bg_color=ffffff&text_color=333333" alt="Svy.J most used languages" align="right" />
+  
+![Aurthur github stats](https://github-readme-stats.vercel.app/api?username=SvyJ&count_private=true&include_all_commits=true&show_icons=true)
