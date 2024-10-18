@@ -47,7 +47,7 @@ Links: [[Google Scholar]](https://scholar.google.com/citations?user=9yWuLtsAAAAJ
   Kai Hu, **Shuai Jiang**, Dong Liu, and Xieping Gao<br>
   _Journal of Software (软件学报)_, 2023 
 
-- [[Joint-seg: Treat Foveal Avascular Zone and Retinal Vessel Segmentation in OCTA Images as a Joint Task]](https://ieeexplore.ieee.org/document/9837090) [[Article]](https://ieeexplore.ieee.org/document/9837090) [[Project]](https://svyj.github.io/Joint-Seg/)<br>
+- [[Joint-Seg: Treat Foveal Avascular Zone and Retinal Vessel Segmentation in OCTA Images as a Joint Task]](https://ieeexplore.ieee.org/document/9837090) [[Article]](https://ieeexplore.ieee.org/document/9837090) [[Project]](https://svyj.github.io/Joint-Seg/)<br>
   Kai Hu, **Shuai Jiang**, Yuan Zhang, Xuanya Li, and Xieping Gao<br>
   _IEEE Transactions on Instrumentation and Measurement (T-IM)_, 2022
 
