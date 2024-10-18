@@ -43,12 +43,12 @@ Links: [[Google Scholar]](https://scholar.google.com/citations?user=9yWuLtsAAAAJ
 
 ## Publications
 
-- Segmentation of Retinal Layer Boundary in OCT Images Based on End-to-end Deep Neural Network and Graph Search [[Paper]](https://www.jos.org.cn/jos/article/abstract/6895)
-  Kai Hu, **Shuai Jiang**, Dong Liu, and Xieping Gao
+- Segmentation of Retinal Layer Boundary in OCT Images Based on End-to-end Deep Neural Network and Graph Search [[Paper]](https://www.jos.org.cn/jos/article/abstract/6895)<br>
+  Kai Hu, **Shuai Jiang**, Dong Liu, and Xieping Gao<br>
   _Journal of Software (软件学报)_, 2023 
 
-- Joint-seg: Treat Foveal Avascular Zone and Retinal Vessel Segmentation in OCTA Images as a Joint Task [[Paper]](https://ieeexplore.ieee.org/document/9837090) [[Project]](https://svyj.github.io/Joint-Seg/)
-  Kai Hu, **Shuai Jiang**, Yuan Zhang, Xuanya Li, and Xieping Gao
+- Joint-seg: Treat Foveal Avascular Zone and Retinal Vessel Segmentation in OCTA Images as a Joint Task [[Paper]](https://ieeexplore.ieee.org/document/9837090) [[Project]](https://svyj.github.io/Joint-Seg/)<br>
+  Kai Hu, **Shuai Jiang**, Yuan Zhang, Xuanya Li, and Xieping Gao<br>
   _IEEE Transactions on Instrumentation and Measurement (T-IM)_, 2022
 
 
