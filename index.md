@@ -43,9 +43,14 @@ Links: [[Google Scholar]](https://scholar.google.com/citations?user=9yWuLtsAAAAJ
 
 ## Publications
 
-- 胡凯, **蒋帅**, 刘冬, 高协平. "基于端到端深度神经网络和图搜索的OCT图像视网膜层边界分割方法". _软件学报_, 2023. (Kai Hu, **Shuai Jiang**, Dong Liu, and Xieping Gao. "Segmentation of Retinal Layer Boundary in OCT Images Based on End-to-end Deep Neural Network and Graph Search", _Journal of Software_, 2023.) [[Paper]](https://www.jos.org.cn/jos/article/abstract/6895)
+- Segmentation of Retinal Layer Boundary in OCT Images Based on End-to-end Deep Neural Network and Graph Search [[Paper]](https://www.jos.org.cn/jos/article/abstract/6895)
+  Kai Hu, **Shuai Jiang**, Dong Liu, and Xieping Gao
+  _Journal of Software (软件学报)_, 2023 
 
-- Kai Hu, **Shuai Jiang**, Yuan Zhang, Xuanya Li, and Xieping Gao, "Joint-seg: Treat Foveal Avascular Zone and Retinal Vessel Segmentation in OCTA Images as a Joint Task", _IEEE Transactions on Instrumentation and Measurement (T-IM)_, 2022. [[Paper]](https://ieeexplore.ieee.org/document/9837090) [[Project]](https://svyj.github.io/Joint-Seg/)
+- Joint-seg: Treat Foveal Avascular Zone and Retinal Vessel Segmentation in OCTA Images as a Joint Task [[Paper]](https://ieeexplore.ieee.org/document/9837090) [[Project]](https://svyj.github.io/Joint-Seg/)
+  Kai Hu, **Shuai Jiang**, Yuan Zhang, Xuanya Li, and Xieping Gao
+  _IEEE Transactions on Instrumentation and Measurement (T-IM)_, 2022
+
 
 
 ## Service
