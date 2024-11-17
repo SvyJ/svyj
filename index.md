@@ -14,9 +14,9 @@ Links: [[Google Scholar]](https://scholar.google.com/citations?user=9yWuLtsAAAAJ
 
 
 ## Recent Updates
-- [Aug. 2024] One paper on "multimodal OCTA image analysis" was submitted to _IEEE Transactions on Instrumentation and Measurement_.
+- [Nov. 2024] One paper on "weakly supervised surface defect localization" was accepted by _IEEE Transactions on Instrumentation and Measurement_. [[Project]](https://svyj.github.io/CSS/)
 
-- [Jun. 2024] One paper on "weakly supervised surface defect localization" was submitted to _IEEE Transactions on Instrumentation and Measurement_. [[Project]](https://svyj.github.io/CSS/)
+- [Aug. 2024] One paper on "multimodal OCTA image analysis" was submitted to _IEEE Transactions on Instrumentation and Measurement_.
 
 - [Apr. 2023] Svy.J was awarded the 28th "Graduate President Scholarship" at Xiangtan University.
 
@@ -42,6 +42,11 @@ Links: [[Google Scholar]](https://scholar.google.com/citations?user=9yWuLtsAAAAJ
 
 
 ## Publications
+
+- [Category-agnostic Cluster-guided Selective Suppression for Weakly Supervised Surface Defect Localization](https://ieeexplore.ieee.org)
+  Shuai Jiang, Min Liu (Supervisor), Yuxi Liu, Yunfeng Ma, and Yaonan Wang
+  _IEEE Transactions on Instrumentation and Measurement (T-IM)_, 2022<br>
+  [PDF](https://ieeexplore.ieee.org) | [Project](https://svyj.github.io/CSS/)
 
 - [Segmentation of Retinal Layer Boundary in OCT Images Based on End-to-end Deep Neural Network and Graph Search](https://www.jos.org.cn/jos/article/abstract/6895)<br>
   Kai Hu (Supervisor), **Shuai Jiang**, Dong Liu, and Xieping Gao<br>
