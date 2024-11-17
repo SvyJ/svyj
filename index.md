@@ -44,7 +44,7 @@ Links: [[Google Scholar]](https://scholar.google.com/citations?user=9yWuLtsAAAAJ
 ## Publications
 
 - [Category-agnostic Cluster-guided Selective Suppression for Weakly Supervised Surface Defect Localization](https://ieeexplore.ieee.org)<br>
-  Shuai Jiang, Min Liu (Supervisor), Yuxi Liu, Yunfeng Ma, and Yaonan Wang<br>
+  **Shuai Jiang**, Min Liu (Supervisor), Yuxi Liu, Yunfeng Ma, and Yaonan Wang<br>
   _IEEE Transactions on Instrumentation and Measurement (T-IM)_, 2022<br>
   [PDF](https://ieeexplore.ieee.org) | [Project](https://svyj.github.io/CSS/)
 
