@@ -41,7 +41,7 @@ Links: [[Google Scholar]](https://scholar.google.com/citations?user=9yWuLtsAAAAJ
 - [Oct. 2020] Svy.J was awarded the "First Class Academic Scholarship" with the rank of 1/70.
 
 
-## Publications <span style="font-size: 2px;">(* Corresponding Author)</span>
+## Publications <span style="font-size: 12px;">(* Corresponding Author)</span>
 - [Category-agnostic Cluster-guided Selective Suppression for Weakly Supervised Surface Defect Localization](https://ieeexplore.ieee.org)<br>
   **Shuai Jiang**, Min Liu* (Supervisor), Yuxi Liu, Yunfeng Ma, and Yaonan Wang<br>
   _IEEE Transactions on Instrumentation and Measurement (T-IM)_, 2022<br>
