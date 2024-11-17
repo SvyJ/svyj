@@ -42,19 +42,20 @@ Links: [[Google Scholar]](https://scholar.google.com/citations?user=9yWuLtsAAAAJ
 
 
 ## Publications
+(* Corresponding Author)
 
 - [Category-agnostic Cluster-guided Selective Suppression for Weakly Supervised Surface Defect Localization](https://ieeexplore.ieee.org)<br>
-  **Shuai Jiang**, Min Liu (Supervisor), Yuxi Liu, Yunfeng Ma, and Yaonan Wang<br>
+  **Shuai Jiang**, Min Liu* (Supervisor), Yuxi Liu, Yunfeng Ma, and Yaonan Wang<br>
   _IEEE Transactions on Instrumentation and Measurement (T-IM)_, 2022<br>
   [PDF](https://ieeexplore.ieee.org) | [Project](https://svyj.github.io/CSS/)
 
 - [Segmentation of Retinal Layer Boundary in OCT Images Based on End-to-end Deep Neural Network and Graph Search](https://www.jos.org.cn/jos/article/abstract/6895)<br>
-  Kai Hu (Supervisor), **Shuai Jiang**, Dong Liu, and Xieping Gao<br>
+  Kai Hu (Supervisor), **Shuai Jiang**, Dong Liu, and Xieping Gao*<br>
   _Journal of Software (软件学报)_, 2023<br>
   [PDF](https://www.jos.org.cn/jos/article/abstract/6895)
 
 - [Joint-Seg: Treat Foveal Avascular Zone and Retinal Vessel Segmentation in OCTA Images as a Joint Task](https://ieeexplore.ieee.org/document/9837090)<br>
-  Kai Hu (Supervisor), **Shuai Jiang**, Yuan Zhang, Xuanya Li, and Xieping Gao<br>
+  Kai Hu (Supervisor), **Shuai Jiang**, Yuan Zhang*, Xuanya Li, and Xieping Gao*<br>
   _IEEE Transactions on Instrumentation and Measurement (T-IM)_, 2022<br>
   [PDF](https://ieeexplore.ieee.org/document/9837090) | [Project](https://svyj.github.io/Joint-Seg/)
 
