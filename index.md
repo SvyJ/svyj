@@ -1,4 +1,4 @@
-## Welcome to Svy.J's Academic Page
+## Welcome to Svy.J's Academic Page :smile:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *"I can do all things!"* 
 
@@ -44,7 +44,7 @@ Links: [[Google Scholar]](https://scholar.google.com/citations?user=9yWuLtsAAAAJ
 ## Publications <span style="font-size: 12px;">(* Corresponding Author)</span>
 - [Category-agnostic Cluster-guided Selective Suppression for Weakly Supervised Surface Defect Localization](https://ieeexplore.ieee.org)<br>
   **Shuai Jiang**, Min Liu* (Supervisor), Yuxi Liu, Yunfeng Ma, and Yaonan Wang<br>
-  _IEEE Transactions on Instrumentation and Measurement (T-IM)_, 2022<br>
+  _IEEE Transactions on Instrumentation and Measurement (T-IM)_, 2024<br>
   [PDF](https://ieeexplore.ieee.org) | [Project](https://svyj.github.io/CSS/)
 
 - [Segmentation of Retinal Layer Boundary in OCT Images Based on End-to-end Deep Neural Network and Graph Search](https://www.jos.org.cn/jos/article/abstract/6895)<br>
