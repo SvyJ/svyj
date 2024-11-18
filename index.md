@@ -18,19 +18,21 @@ Links: [[Google Scholar]](https://scholar.google.com/citations?user=9yWuLtsAAAAJ
 
 - [Aug. 2024] One paper on "multimodal OCTA image analysis" was submitted to _IEEE Transactions on Instrumentation and Measurement_.
 
+- [Apr. 2023] &#127891; Svy.J graduated from Xiangtan University and was conferred M.Eng. degree.
+
 - [Apr. 2023] Svy.J was awarded the 28th "Graduate President Scholarship" at Xiangtan University.
 
 - [Mar. 2023] Svy.J was awarded the title of "Outstanding Graduate Student" of Hunan Provincial Ordinary Higher Education Institutions.
   
 - [Mar. 2023] Svy.J was awarded the title of "Outstanding Graduate Student" of Xiangtan University.
   
-- [Jan. 2023] One paper on "retinal layer segmentation in OCT" was accepted by the _Journal of Software_ (软件学报) (CCF-A Chinese journal). [[Paper]](https://www.jos.org.cn/jos/article/abstract/6895)
+- [Jan. 2023] &#127881; One paper on "retinal layer segmentation in OCT" was accepted by the _Journal of Software_ (软件学报) (CCF-A Chinese journal). [[Paper]](https://www.jos.org.cn/jos/article/abstract/6895)
   
 - [Oct. 2022] Svy.J was awarded the "Special Academic Scholarship" again with the rank of 1/70.
   
 - [Sept. 2022] Svy.J was awarded the "Graduate National Scholarship".
   
-- [Jul. 2022] One paper on "biomarkers segmentation in OCTA" was accepted by _IEEE Transactions on Instrumentation and Measurement_. [[Paper]](https://ieeexplore.ieee.org/document/9837090) [[Project]](https://svyj.github.io/Joint-Seg/)
+- [Jul. 2022] &#127881; One paper on "biomarkers segmentation in OCTA" was accepted by _IEEE Transactions on Instrumentation and Measurement_. [[Paper]](https://ieeexplore.ieee.org/document/9837090) [[Project]](https://svyj.github.io/Joint-Seg/)
   
 - [Oct. 2021] Svy.J was awarded the "Xinhualian Group Education Scholarship".
   
