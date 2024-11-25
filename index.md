@@ -14,11 +14,11 @@ Links: [[Google Scholar]](https://scholar.google.com/citations?user=9yWuLtsAAAAJ
 
 
 ## Recent Updates
-- [Nov. 2024] Our article on "few-shot defect detection" was submitted to _IEEE T-ASE_. [[Project]](https://svyj.github.io/CSS/)
+- [Nov. 2024] Our article on "few-shot defect detection" was submitted to _IEEE T-ASE_.
 
 - [Nov. 2024] &#127881; Our article on "weakly supervised surface defect localization" was accepted by _IEEE T-IM_. [[Project]](https://svyj.github.io/CSS/)
 
-- [Oct. 2024] Our article on "network architecture search for surface defect detection" was submitted to _IEEE T-NNLS_. [[Project]](https://svyj.github.io/CSS/)
+- [Oct. 2024] Our article on "network architecture search for surface defect detection" was submitted to _IEEE T-NNLS_.
 
 - [Aug. 2024] Our article on "multimodal OCTA image analysis" was submitted to _IEEE T-IM_.
 
