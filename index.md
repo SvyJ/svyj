@@ -20,7 +20,7 @@ Links: [[Google Scholar]](https://scholar.google.com/citations?user=9yWuLtsAAAAJ
 
 - [Oct. 2024] Our article on "network architecture search for surface defect detection" was submitted to _IEEE T-NNLS_.
 
-- [Aug. 2024] Our article on "multimodal OCTA image analysis" was submitted to _IEEE T-IM_.
+- [Aug. 2024] Our article on "multimodal retinal image analysis" was submitted to _IEEE T-IM_.
 
 - [Apr. 2023] &#127891; Svy.J graduated from Xiangtan University and was conferred M.Eng. degree.
 
