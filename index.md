@@ -63,6 +63,21 @@ Links: [[Google Scholar]](https://scholar.google.com/citations?user=9yWuLtsAAAAJ
   _IEEE Transactions on Instrumentation and Measurement (T-IM)_, 2022<br>
   [PDF](https://ieeexplore.ieee.org/document/9837090) | [Project](https://svyj.github.io/Joint-Seg/)
 
+<div align="center">
+<table rules="none">
+<tr>
+<td>
+<p>[Joint-Seg: Treat Foveal Avascular Zone and Retinal Vessel Segmentation in OCTA Images as a Joint Task](https://ieeexplore.ieee.org/document/9837090)</p>
+<p>Kai Hu (Supervisor), **Shuai Jiang**, Yuan Zhang*, Xuanya Li, and Xieping Gao*</p>
+<p>[PDF](https://ieeexplore.ieee.org/document/9837090) | [Project](https://svyj.github.io/Joint-Seg/)</p>
+</td>
+<td>
+<img src="img/aijs.jpg" style="zoom:50%" />
+</td>
+</tr>
+</table>    
+</div>
+
 
 
 ## Service
