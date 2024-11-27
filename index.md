@@ -14,6 +14,12 @@ Links: [[Google Scholar]](https://scholar.google.com/citations?user=9yWuLtsAAAAJ
 
 
 ## Recent Updates
+
+<details>
+  <summary>点击展开/折叠</summary>
+  <p>这是折叠的内容。</p>
+</details>
+
 - [Nov. 2024] Our article on "Few-Shot Defect Detection" was submitted to _IEEE T-ASE_.
 
 - [Nov. 2024] &#127881; Our article on "Weakly Supervised Surface Defect Localization" was accepted by _IEEE T-IM_. [[Project]](https://svyj.github.io/CSS/)
