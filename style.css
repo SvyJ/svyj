@@ -1,16 +1,7 @@
-*{
-	margin: 0;
-	padding: 0;
-	box-sizing: border-box;
-}
 .box{
 	width: 100%;
 	position: relative;
 	
-}
-p{
-	line-height: 30px;
-	padding: 10px 10px 0px 10px; 
 }
 .element{
 	max-height: 0;
