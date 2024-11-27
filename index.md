@@ -1,47 +1,3 @@
-<link rel="stylesheet" type="text/css" href="style.css">
-<style>
-	*{
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-.box{
-  width: 400px;
-  background-color: aqua;
-  position: relative;
-}
-p{
-  line-height: 30px;
-  padding: 10px 10px 0px 10px; 
-}
-.element{
-  max-height: 0;
-  overflow: hidden;
-  transition: max-height .5s;
-}
-#check, .checkout{
-  display: none;
-}
-.checkin, .checkout{
-  cursor: pointer;
-  position: absolute;
-  right: 0px;
-}
-.checkin{
-  display: block;
-}
-:checked ~ .checkout {
-  display: block;
-}
-:checked ~ .checkin {
-  display: none;
-}
-:checked ~ .element{
-  max-height: 666px;
-}
-.checkin:hover, .checkout:hover{color: red;}
-</style>
-
 ## Welcome to Svy.J's Academic Page &#128515;
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *"I can do all things!"* 
@@ -58,35 +14,6 @@ Links: [[Google Scholar]](https://scholar.google.com/citations?user=9yWuLtsAAAAJ
 
 
 ## Recent Updates
-<div class="box">
-	<input id="check" type="checkbox">
-	<p>这里是默认显示的内容这里是默认显示的内容这里是默认显示的内容。</p>
-	<div class="element">
-		<p>这里是默认不显示的内容这里是默认不显示的内容这里是默认不显示的内容这里是默认不显示的内容这里是默认不显示的内容这里是默认不显示的内容这里是默认不显示的内容。</p>
-	</div>
-	<label for="check" class="checkin">更多</label>
-	<label for="check" class="checkout">收起</label>
-</div>
-
-<details>
-<summary>
-- [Nov. 2024] Our article on "Few-Shot Defect Detection" was submitted to _IEEE T-ASE_.
-- [Nov. 2024] &#127881; Our article on "Weakly Supervised Surface Defect Localization" was accepted by _IEEE T-IM_. [[Project]](https://svyj.github.io/CSS/)
-- [Oct. 2024] Our article on "Neural Architecture Search for Surface Defect Detection" was submitted to _IEEE T-NNLS_.
-- [Aug. 2024] Our article on "Multimodal Retinal Image Analysis" was submitted to _IEEE T-IM_.
-</summary>
-<p>
-- [Apr. 2023] &#127891; Svy.J graduated from Xiangtan University and was conferred M.Eng. degree.
-- [Apr. 2023] Svy.J was awarded the 28th "Graduate President Scholarship" at Xiangtan University.
-- [Mar. 2023] Svy.J was awarded the title of "Outstanding Graduate Student" of Hunan Provincial Ordinary Higher Education Institutions.
-- [Mar. 2023] Svy.J was awarded the title of "Outstanding Graduate Student" of Xiangtan University.
-- [Jan. 2023] &#127881; Our article on "Retinal Layer Segmentation in OCT" was accepted by the _Journal of Software_ (软件学报) (CCF-A Chinese journal). [[Paper]](https://www.jos.org.cn/jos/article/abstract/6895)
-- [Sept. 2022] Svy.J was awarded the "Graduate National Scholarship".
-- [Jul. 2022] &#127881; Our article on "Biomarkers Segmentation in OCTA" was accepted by _IEEE T-IM_. [[Paper]](https://ieeexplore.ieee.org/document/9837090) [[Project]](https://svyj.github.io/Joint-Seg/)
-- [Dec. 2020] Svy.J won the third prize in the _4th ISICDM_ in "Lung Tissue Segmentation Challenge" with his teammate Tongtong Liu (Now a Ph.D. student at SCUT) and Fucai Wu. [[ISICDM 2023]](https://svyj.github.io/2022/07/05/017-ISICDM2020)
-</p>
-</details>
-
 - [Nov. 2024] Our article on "Few-Shot Defect Detection" was submitted to _IEEE T-ASE_.
 
 - [Nov. 2024] &#127881; Our article on "Weakly Supervised Surface Defect Localization" was accepted by _IEEE T-IM_. [[Project]](https://svyj.github.io/CSS/)
