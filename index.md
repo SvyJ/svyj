@@ -14,6 +14,15 @@ Links: [[Google Scholar]](https://scholar.google.com/citations?user=9yWuLtsAAAAJ
 
 
 ## Recent Updates
+<div class="box">
+	<input id="check" type="checkbox">
+	<p>这里是默认显示的内容这里是默认显示的内容这里是默认显示的内容。</p>
+	<div class="element">
+		<p>这里是默认不显示的内容这里是默认不显示的内容这里是默认不显示的内容这里是默认不显示的内容这里是默认不显示的内容这里是默认不显示的内容这里是默认不显示的内容。</p>
+	</div>
+	<label for="check" class="checkin">更多</label>
+	<label for="check" class="checkout">收起</label>
+</div>
 
 <details>
 <summary>
@@ -86,3 +95,48 @@ Links: [[Google Scholar]](https://scholar.google.com/citations?user=9yWuLtsAAAAJ
 
 ## Service
 - Reviewer of [_Journal of Imaging Informatics in Medicine (Journal of Digital Imaging)_](https://link.springer.com/journal/10278)
+
+
+<style>
+    *{
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+	}
+	.box{
+		width: 400px;
+		background-color: aqua;
+		position: relative;
+		
+	}
+	p{
+		line-height: 30px;
+		padding: 10px 10px 0px 10px; 
+	}
+	.element{
+		max-height: 0;
+		overflow: hidden;
+		transition: max-height .5s;
+	}
+	#check, .checkout{
+		display: none;
+	}
+	.checkin, .checkout{
+		cursor: pointer;
+		position: absolute;
+		right: 0px;
+	}
+	.checkin{
+		display: block;
+	}
+	:checked ~ .checkout {
+		display: block;
+	}
+	:checked ~ .checkin {
+		display: none;
+	}
+	:checked ~ .element{
+		max-height: 666px;
+	}
+	.checkin:hover, .checkout:hover{color: red;}
+</style>
