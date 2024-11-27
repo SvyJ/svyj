@@ -12,6 +12,15 @@ Frontiers in my research area are updated at [https://svyj.github.io/daily-paper
 
 Links: [[Google Scholar]](https://scholar.google.com/citations?user=9yWuLtsAAAAJ)  [[Github]](https://github.com/SvyJ)  
 
+<div class="box">
+	<input id="check" type="checkbox">
+	<p>这里是默认显示的内容这里是默认显示的内容这里是默认显示的内容。</p>
+	<div class="element">
+		<p>这里是默认不显示的内容这里是默认不显示的内容这里是默认不显示的内容这里是默认不显示的内容这里是默认不显示的内容这里是默认不显示的内容这里是默认不显示的内容。</p>
+	</div>
+	<label for="check" class="checkin">More</label>
+	<label for="check" class="checkout">Less</label>
+</div>
 
 ## Recent Updates
 - [Nov. 2024] Our article on "Few-Shot Defect Detection" was submitted to _IEEE T-ASE_.
