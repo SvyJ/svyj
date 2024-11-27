@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" href="style.css"/>
+
 ## Welcome to Svy.J's Academic Page &#128515;
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *"I can do all things!"* 
