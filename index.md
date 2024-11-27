@@ -9,9 +9,7 @@
 #### I am currently a Ph.D. student major in Control Science and Engineering at Hunan University, working under the supervision of Prof. Dr. [Min Liu](http://eeit.hnu.edu.cn/info/1291/5218.htm). My research interests include industrial vision and medical image anylasis. Before entering Hunan University, I received my M.Eng. (supervised by Prof. Dr. [Kai Hu](https://jwxy.xtu.edu.cn/info/1147/2508.htm)) and B.S. degree from Xiangtan University in 2023 and 2020. (Contact me: svyj@hnu.edu.cn)
 
 More information (e.g., study blogs, experience sharing) can be found at [Svy.J's Homepage - https://svyj.github.io/](https://svyj.github.io/).
-
 Frontiers in my research area are updated at [https://svyj.github.io/daily-papers](https://svyj.github.io/daily-papers) for the in-time following.
-
 Links: [[Google Scholar]](https://scholar.google.com/citations?user=9yWuLtsAAAAJ)  [[Github]](https://github.com/SvyJ)  
 
 <div class="box">
@@ -26,15 +24,10 @@ Links: [[Google Scholar]](https://scholar.google.com/citations?user=9yWuLtsAAAAJ
 
 ## Recent Updates
 - [Nov. 2024] Our article on "Few-Shot Defect Detection" was submitted to _IEEE T-ASE_.
-
 - [Nov. 2024] &#127881; Our article on "Weakly Supervised Surface Defect Localization" was accepted by _IEEE T-IM_. [[Project]](https://svyj.github.io/CSS/)
-
 - [Oct. 2024] Our article on "Neural Architecture Search for Surface Defect Detection" was submitted to _IEEE T-NNLS_.
-
 - [Aug. 2024] Our article on "Multimodal Retinal Image Analysis" was submitted to _IEEE T-IM_.
-
 - [Apr. 2023] &#127891; Svy.J graduated from Xiangtan University and was conferred M.Eng. degree.
-
 - [Apr. 2023] Svy.J was awarded the 28th "Graduate President Scholarship" at Xiangtan University.
 
 - [Mar. 2023] Svy.J was awarded the title of "Outstanding Graduate Student" of Hunan Provincial Ordinary Higher Education Institutions.
