@@ -23,7 +23,7 @@ Links: [[Google Scholar]](https://scholar.google.com/citations?user=9yWuLtsAAAAJ
   
 - [Apr. 2023] &#127891; Svy.J graduated from Xiangtan University and was conferred M.Eng. degree.
   
-- [Apr. 2023] Svy.J was awarded the 28th "Graduate President Scholarship" at Xiangtan University.
+- [Apr. 2023] Svy.J was awarded the 28th "Graduate Presidential Scholarship" at Xiangtan University.
 
 - [Mar. 2023] Svy.J was awarded the title of "Outstanding Graduate Student" of Hunan Provincial Ordinary Higher Education Institutions.
   
@@ -62,6 +62,9 @@ Links: [[Google Scholar]](https://scholar.google.com/citations?user=9yWuLtsAAAAJ
   _IEEE Transactions on Instrumentation and Measurement (T-IM)_, 2022<br>
   [PDF](https://ieeexplore.ieee.org/document/9837090) | [Project](https://svyj.github.io/Joint-Seg/)
 
+## Awards
+Presidential Scholarship, Xiangtan University, 2023.
+China National Scholarship, Ministry of Education of the People's Republic of China, 2022.
 
 ## Service
 - Reviewer of [_Journal of Imaging Informatics in Medicine (Journal of Digital Imaging)_](https://link.springer.com/journal/10278)
