@@ -63,8 +63,11 @@ Links: [[Google Scholar]](https://scholar.google.com/citations?user=9yWuLtsAAAAJ
   [PDF](https://ieeexplore.ieee.org/document/9837090) | [Project](https://svyj.github.io/Joint-Seg/)
 
 ## Awards
-- Presidential Scholarship, Xiangtan University, 2023.
+- Excellent Graduates, Hunan Provincial Department of Education, 2023.
+- Excellent Graduates, Xiangtan University, 2023.
+- Principal Scholarship, Xiangtan University, 2023.
 - China National Scholarship, Ministry of Education of the People's Republic of China, 2022.
+- Special Scholarship, Xiangtan University, 2022 / 2021.
 
 ## Service
 - Reviewer of [_Journal of Imaging Informatics in Medicine (Journal of Digital Imaging)_](https://link.springer.com/journal/10278)
