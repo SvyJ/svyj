@@ -1,10 +1,13 @@
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
 logo: img/aijs.jpg
 description: |
   Ph.D Student |
   CSIG Student Member
 title: Svy.J (Shuai Jiang)
-minimal_mistakes_skin: "air"
+# minimal_mistakes_skin: "air"
+remote_theme: pages-themes/dinky@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 
 footer:
   links:
