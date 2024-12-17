@@ -1,10 +1,10 @@
-**&#128515;**
+**&#128515; &#127774; &#128107; &#9749; &#127934;** 
 
 
 <div style="display: flex; align-items: center;">
     <img src="img/aijs.jpg" style="margin-right: 20px; width: 200px; height: 200px" />
     <div>
-        <p style="margin-bottom: 5px;">Svy.J (Shuai Jiang)</p>
+        <p style="font-size: 24px;">Svy.J (Shuai Jiang)</p>
         <p>College of Electrical and Information Engineering</p>
         <p>National Engineering Research Center for Robot Visual Perception and Control Technology</p>
         <p>Hunan University, Changsha, 410082, China </p>
