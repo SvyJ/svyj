@@ -1,11 +1,9 @@
 # theme: jekyll-theme-minimal
 theme: minima
 logo: img/aijs.jpg
-# description: |
-#   Ph.D Student |
-#   CSIG Student Member
+description: |
+  Ph.D Student | CSIG Student Member
 title: Svy.J (Shuai Jiang)
-subtitle: Ph.D Student | CSIG Student Member
 # minimal_mistakes_skin: "air"
 # remote_theme: pages-themes/hacker@v0.2.0
 # plugins:
