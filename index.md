@@ -1,14 +1,18 @@
-**Welcome to Svy.J's Academic Page &#128515;**
+**&#128515;**
 
 
 <div style="display: flex; align-items: center;">
-    <img src="img/aijs.jpg" style="margin-right: 20px; width: 100px; height: 100px" />
+    <img src="img/aijs.jpg" style="margin-right: 20px; width: 200px; height: 200px" />
     <div>
         <p style="margin-bottom: 5px;">Svy.J (Shuai Jiang)</p>
-        <p>Hunan University</p>
+        <p>College of Electrical and Information Engineering</p>
+        <p>National Engineering Research Center for Robot Visual Perception and Control Technology</p>
+        <p>Hunan University, Changsha, 410082, China </p>
     </div>
 </div>
 
+
+<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *"I can do all things!"* 
 
 <p align="right"> — Wardell Stephen Curry II &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
