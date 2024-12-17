@@ -2,7 +2,7 @@
 
 
 <div style="display: flex; align-items: center;">
-    <img src="img/aijs.jpg" style="margin-right: 20px;" />
+    <img src="img/aijs.jpg" style="margin-right: 20px; width: 100px; height: 100px" />
     <div>
         <p style="margin-bottom: 5px;">Svy.J (Shuai Jiang)</p>
         <p>Hunan University</p>
