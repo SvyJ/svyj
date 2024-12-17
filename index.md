@@ -1,10 +1,10 @@
-## Welcome to Svy.J's Academic Page &#128515;
+## **Welcome to Svy.J's Academic Page &#128515;**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *"I can do all things!"* 
 
 <p align="right"> — Wardell Stephen Curry II &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 
-#### I am currently a Ph.D. student major in Control Science and Engineering at Hunan University, working under the supervision of Prof. Dr. [Min Liu](http://eeit.hnu.edu.cn/info/1291/5218.htm) (DIRECT) and Prof. Dr. [Yaonan Wang](http://eeit.hnu.edu.cn/info/1277/4490.htm) (INDIRECT). My research interests include industrial vision and medical image anylasis. Before entering Hunan University, I received my M.Eng. (supervised by Prof. Dr. [Kai Hu](https://jwxy.xtu.edu.cn/info/1147/2508.htm)) and B.S. degree from Xiangtan University in 2023 and 2020. (Contact me: svyj@hnu.edu.cn)
+#### **I am currently a Ph.D. student major in Control Science and Engineering at Hunan University, working under the supervision of Prof. Dr. [Min Liu](http://eeit.hnu.edu.cn/info/1291/5218.htm) (DIRECT) and Prof. Dr. [Yaonan Wang](http://eeit.hnu.edu.cn/info/1277/4490.htm) (INDIRECT). My research interests include industrial vision and medical image anylasis. Before entering Hunan University, I received my M.Eng. (supervised by Prof. Dr. [Kai Hu](https://jwxy.xtu.edu.cn/info/1147/2508.htm)) and B.S. degree from Xiangtan University in 2023 and 2020. (Contact me: svyj@hnu.edu.cn)**
 
 More information (e.g., study blogs, experience sharing) can be found at [Svy.J's Homepage - https://svyj.github.io/](https://svyj.github.io/).
 
@@ -12,7 +12,7 @@ Frontiers in my research area are updated at [https://svyj.github.io/daily-paper
 
 Links: [[Google Scholar]](https://scholar.google.com/citations?user=9yWuLtsAAAAJ)  [[Github]](https://github.com/SvyJ)  
 
-## Recent Updates
+## **Recent Updates**
 - [Nov. 2024] Our article on "Few-Shot Defect Detection" was submitted to _IEEE T-ASE_.
   
 - [Nov. 2024] &#127881; Our article on "Weakly Supervised Surface Defect Localization" was accepted by _IEEE T-IM_. [[Project]](https://svyj.github.io/CSS/)
@@ -46,7 +46,7 @@ Links: [[Google Scholar]](https://scholar.google.com/citations?user=9yWuLtsAAAAJ
 <!-- - [Oct. 2020] Svy.J was awarded the "First Class Academic Scholarship" with the rank of 1/70. -->
 
 
-## Publications <span style="font-size: 12px;">(* Corresponding Author)</span>
+## **Publications** <span style="font-size: 12px;">(* Corresponding Author)</span>
 - [Category-agnostic Cluster-guided Selective Suppression for Weakly Supervised Surface Defect Localization](https://ieeexplore.ieee.org)<br>
   **Shuai Jiang**, Min Liu* (Supervisor), Yuxi Liu, Yunfeng Ma, and Yaonan Wang<br>
   _IEEE Transactions on Instrumentation and Measurement (T-IM)_, 2024<br>
@@ -62,12 +62,12 @@ Links: [[Google Scholar]](https://scholar.google.com/citations?user=9yWuLtsAAAAJ
   _IEEE Transactions on Instrumentation and Measurement (T-IM)_, 2022<br>
   [PDF](https://ieeexplore.ieee.org/document/9837090) | [Project](https://svyj.github.io/Joint-Seg/)
 
-## Awards
+## **Awards**
 - Excellent Graduates, Hunan Provincial Department of Education, 2023.
 - Excellent Graduates, Xiangtan University, 2023.
 - Principal Scholarship, Xiangtan University, 2023.
 - China National Scholarship, Ministry of Education of the People's Republic of China, 2022.
 - Special Scholarship, Xiangtan University, 2022 / 2021.
 
-## Service
+## **Service**
 - Reviewer of [_Journal of Imaging Informatics in Medicine (Journal of Digital Imaging)_](https://link.springer.com/journal/10278)
