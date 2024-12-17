@@ -1,5 +1,14 @@
 **Welcome to Svy.J's Academic Page &#128515;**
 
+
+<div style="display: flex; align-items: center;">
+    <img src="img/aijs.jpg" style="margin-right: 20px;" />
+    <div>
+        <p style="margin-bottom: 5px;">Svy.J (Shuai Jiang)</p>
+        <p>Hunan University</p>
+    </div>
+</div>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *"I can do all things!"* 
 
 <p align="right"> — Wardell Stephen Curry II &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
@@ -13,7 +22,7 @@ Frontiers in my research area are updated at [https://svyj.github.io/daily-paper
 Links: [[Google Scholar]](https://scholar.google.com/citations?user=9yWuLtsAAAAJ)  [[Github]](https://github.com/SvyJ)  
 
 
-## **Publications** <span style="font-size: 12px;">(* Corresponding Author)</span>
+## **Publications** <span style="font-size: 12px; font-weight: bold;">(* Corresponding Author)</span>
 - [Category-agnostic Cluster-guided Selective Suppression for Weakly Supervised Surface Defect Localization](https://ieeexplore.ieee.org)<br>
   **Shuai Jiang**, Min Liu* (Supervisor), Yuxi Liu, Yunfeng Ma, and Yaonan Wang<br>
   _IEEE Transactions on Instrumentation and Measurement (T-IM)_, 2024<br>
