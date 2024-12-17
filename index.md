@@ -12,6 +12,7 @@ Frontiers in my research area are updated at [https://svyj.github.io/daily-paper
 
 Links: [[Google Scholar]](https://scholar.google.com/citations?user=9yWuLtsAAAAJ)  [[Github]](https://github.com/SvyJ)  
 
+<!-- - 
 ## **Recent Updates**
 - [Nov. 2024] Our article on "Few-Shot Defect Detection" was submitted to _IEEE T-ASE_.
   
@@ -44,7 +45,7 @@ Links: [[Google Scholar]](https://scholar.google.com/citations?user=9yWuLtsAAAAJ
 - [Dec. 2020] Svy.J won the third prize in the _4th ISICDM_ in "Lung Tissue Segmentation Challenge" with his teammate Tongtong Liu (Now a Ph.D. student at SCUT) and Fucai Wu. [[ISICDM 2023]](https://svyj.github.io/2022/07/05/017-ISICDM2020)
   
 <!-- - [Oct. 2020] Svy.J was awarded the "First Class Academic Scholarship" with the rank of 1/70. -->
-
+-->
 
 ## **Publications** <span style="font-size: 12px;">(* Corresponding Author)</span>
 - [Category-agnostic Cluster-guided Selective Suppression for Weakly Supervised Surface Defect Localization](https://ieeexplore.ieee.org)<br>
