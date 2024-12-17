@@ -8,7 +8,7 @@
   
 - **[Aug. 2024]** Our article on "Multimodal Retinal Image Analysis" was submitted to _IEEE T-IM_.
   
-- [**Apr. 2023]** &#127891; Svy.J graduated from Xiangtan University and was conferred M.Eng. degree.
+- **[Apr. 2023]** &#127891; Svy.J graduated from Xiangtan University and was conferred M.Eng. degree.
   
 - **[Apr. 2023]** Svy.J was awarded the 28th "Graduate Presidential Scholarship" at Xiangtan University.
 
