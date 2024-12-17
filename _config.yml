@@ -13,7 +13,7 @@ plugins:
   - jekyll-sitemap
 
 header_pages:
-  - more.md
+  - news.md
 
 footer:
   links:
