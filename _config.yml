@@ -12,6 +12,9 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
+header_pages:
+  - welcome.md
+
 footer:
   links:
     - label: "Twitter"
