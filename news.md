@@ -1,4 +1,4 @@
-# Recent News
+<p style="font-size: 24px; font-weight: bold;">Recent News</p>
 
 - [Nov. 2024] Our article on "Few-Shot Defect Detection" was submitted to _IEEE T-ASE_.
   
