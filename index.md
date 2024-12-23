@@ -28,7 +28,7 @@ Links: [[Google Scholar]](https://scholar.google.com/citations?user=9yWuLtsAAAAJ
 
 ## **Publications** <span style="font-size: 12px; font-weight: bold;">(* Corresponding Author)</span>
 - [Joint Segmentation of FAZ and RVs in OCTA Images with Auxiliary 3D Image Projection Learning](https://ieeexplore.ieee.org)<br>
-  **Shuai Jiang**, kai Hu* (Supervisor), Yuan Zhang, and Xieping Gao<br>
+  **Shuai Jiang**, Kai Hu* (Supervisor), Yuan Zhang, and Xieping Gao<br>
   _IEEE Transactions on Instrumentation and Measurement (T-IM)_, 2025<br>
   [PDF](https://ieeexplore.ieee.org) | [Project](https://svyj.github.io/Joint-Seg/)
 
