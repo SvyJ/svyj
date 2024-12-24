@@ -6,7 +6,7 @@ permalink: /news/
 
 ## **Recent News**
 
-<!-- - **[Dec. 2024]** &#127881; Our article on "Multimodal Retinal Image Analysis" was accepted by _IEEE T-IM_. [[Project]](https://svyj.github.io/Joint-Seg/) -->
+- **[Dec. 2024]** &#127881; Our article on "Multimodal Retinal Image Analysis" was accepted by _IEEE T-IM_. [[Project]](https://svyj.github.io/Joint-Seg/)
 
 - **[Nov. 2024]** Our article on "Few-Shot Defect Detection" was submitted to _IEEE T-ASE_.
   
