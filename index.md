@@ -2,7 +2,7 @@
 
 
 <div style="display: flex; align-items: center;">
-    <img src="img/aijs.jpg" style="margin-right: 20px; width: 20%; height: 20%" />
+    <img src="img/aijs.jpg" style="margin-right: 20px; width: 30%; height: 30%" />
     <div>
         <p style="font-size: 24px; font-weight: bold;">Svy.J (Shuai Jiang)</p>
         <p>College of Electrical and Information Engineering</p>
