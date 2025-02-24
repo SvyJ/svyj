@@ -25,6 +25,10 @@ Links: [[Google Scholar]](https://scholar.google.com/citations?user=9yWuLtsAAAAJ
 
 
 ## **Publications** <span style="font-size: 12px; font-weight: bold;">(* Corresponding Author)</span>
+- [Multi-Context Aggregation Network with Foreground Correction for Automated Few-Shot Defect Segmentation](https://ieeexplore.ieee.org)<br>
+  Yunfeng Ma, Min Liu* (Supervisor), **Shuai Jiang**, Xueping Wang, Yuan Bian, and Yaonan Wang<br>
+  _IEEE Transactions on Automation Science and Engineering (T-ASE)_, 2025<br>
+
 - [Joint Segmentation of FAZ and RVs in OCTA Images with Auxiliary 3D Image Projection Learning](https://ieeexplore.ieee.org)<br>
   **Shuai Jiang**, Kai Hu* (Supervisor), Yuan Zhang, and Xieping Gao<br>
   _IEEE Transactions on Instrumentation and Measurement (T-IM)_, 2024<br>
