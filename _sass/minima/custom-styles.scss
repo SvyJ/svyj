@@ -1,0 +1,15 @@
+.wrapper {
+  max-width: 90%;
+  width: 90%;
+  margin: 0 auto;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+// 响应式调整
+@media screen and (max-width: 768px) {
+  .wrapper {
+    max-width: 100%;
+    width: 100%;
+  }
+}
