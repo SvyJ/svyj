@@ -1,0 +1,29 @@
+---
+---
+
+// 自定义变量覆盖
+$content-width: 90%;      // 主内容区宽度为视口的 90%
+$on-palm: 800px;          // 调整移动端断点为 800px
+
+// 导入主题原始文件
+@import "minima";
+
+// 同步页眉页脚宽度
+.site-header, .site-footer {
+  max-width: $content-width;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+// 响应式调整
+@include media-query($on-palm) {
+  .wrapper {
+    max-width: 100%;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  .site-header, .site-footer {
+    max-width: 100%;
+  }
+}
