@@ -38,7 +38,7 @@ Links: [[Google Scholar]](https://scholar.google.com/citations?user=9yWuLtsAAAAJ
 - [Category-agnostic Cluster-guided Selective Suppression for Weakly Supervised Surface Defect Localization](https://ieeexplore.ieee.org)<br>
   **Shuai Jiang**, Min Liu* (Supervisor), Yuxi Liu, Yunfeng Ma, and Yaonan Wang<br>
   _IEEE Transactions on Instrumentation and Measurement (T-IM)_, 2024<br>
-  [PDF](https://ieeexplore.ieee.org) | [Project](https://svyj.github.io/CSS/)
+  [PDF](https://doi.org/10.1109/TIM.2025.3545862) | [Project](https://svyj.github.io/CSS/)
 
 - [Segmentation of Retinal Layer Boundary in OCT Images Based on End-to-end Deep Neural Network and Graph Search](https://www.jos.org.cn/jos/article/abstract/6895)<br>
   Kai Hu (Supervisor), **Shuai Jiang**, Dong Liu, and Xieping Gao*<br>
