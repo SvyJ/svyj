@@ -30,12 +30,12 @@ Links: [[Google Scholar]](https://scholar.google.com/citations?user=9yWuLtsAAAAJ
   _IEEE Transactions on Automation Science and Engineering (T-ASE)_, 2025<br>
   [PDF](https://ieeexplore.ieee.org)
 
-- [Joint Segmentation of FAZ and RVs in OCTA Images with Auxiliary 3D Image Projection Learning](https://ieeexplore.ieee.org)<br>
+- [Joint Segmentation of FAZ and RVs in OCTA Images with Auxiliary 3D Image Projection Learning](https://ieeexplore.ieee.org/document/10904426)<br>
   **Shuai Jiang**, Kai Hu* (Supervisor), Yuan Zhang, and Xieping Gao<br>
   _IEEE Transactions on Instrumentation and Measurement (T-IM)_, 2024<br>
   [PDF](https://ieeexplore.ieee.org/document/10904426)
 
-- [Category-agnostic Cluster-guided Selective Suppression for Weakly Supervised Surface Defect Localization](https://ieeexplore.ieee.org)<br>
+- [Category-agnostic Cluster-guided Selective Suppression for Weakly Supervised Surface Defect Localization](https://ieeexplore.ieee.org/document/10908998)<br>
   **Shuai Jiang**, Min Liu* (Supervisor), Yuxi Liu, Yunfeng Ma, and Yaonan Wang<br>
   _IEEE Transactions on Instrumentation and Measurement (T-IM)_, 2024<br>
   [PDF](https://ieeexplore.ieee.org/document/10908998) | [Project](https://svyj.github.io/CSS/)
