@@ -6,7 +6,7 @@ permalink: /news/
 
 ## **Recent News**
 
-- **[Feb. 2025]** &#127881; Our article on "Few-Shot Defect Segmentation" was accepted to _IEEE T-ASE_.
+- **[Mar. 2025]** &#127881; Our article on "Few-Shot Defect Segmentation" was accepted to _IEEE T-ASE_.
 
 - **[Jan. 2025]** Our article on "Multi-view Industrial Anomaly Detection" was submitted to _IEEE/ASME T-Mech_.
 
