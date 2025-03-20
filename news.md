@@ -1,10 +1,8 @@
 ---
 layout: page
-title: 
+title: Recent News
 permalink: /news/
 ---
-
-## **Recent News**
 
 - **[Mar. 2024]** Our article on "Neural Architecture Search for Surface Defect Detection" was submitted to _IEEE T-ASE_.
 
