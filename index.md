@@ -1,4 +1,4 @@
-**ATTENTION: This site will no longer be updated. (2025.03.28)**
+**ATTENTION: This site will no longer be updated. (2025.03.28) [New Homepage](https://svyj.github.io/)**
 
 **&#128515; &#127774; &#128107; &#9749; &#127934;** 
 
